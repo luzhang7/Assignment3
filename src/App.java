@@ -10,7 +10,7 @@
 public class App {
 
     public static void main(String[] args) {
-        String welcomeMsg = "Lu Zhang";
+        String welcomeMsg = "I am Lu Zhang";
 
         System.out.println(welcomeMsg);
     }
